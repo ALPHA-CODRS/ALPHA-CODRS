@@ -18,7 +18,7 @@
 - Projects involving **AI applications**, **cybersecurity solutions**, or **management systems**.
 
 ## 📫 How to Reach Me:
-- **Email**: adarsh@example.com *(replace with your email)*  
+- **Email**: babatech009@gmail.com 
 - **LinkedIn**: [Adarsh Kumar Singh](https://www.linkedin.com/in/adarshsingh861/) 
 - **GitHub**: [@ALPHA-CODRS](https://github.com/ALPHA-CODRS)
 
